@@ -1,4 +1,4 @@
-name: "[spinarak/lint] Run clint on src files"
+name: "[ci] Run clint on src files"
 
 on:
   push:
