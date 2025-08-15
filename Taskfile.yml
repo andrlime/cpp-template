@@ -17,7 +17,6 @@ tasks:
       - icn
   init:
     cmds:
-      - rm -r build
       - task: init-conan
       - task: init-cmake
     aliases:

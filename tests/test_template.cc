@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
 
 TEST(TemplateTest, BasicTests) {
-    ASSERT_EQUAL(3 + 3, 6);
+    ASSERT_EQ(3 + 3, 6);
 }

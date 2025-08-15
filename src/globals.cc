@@ -4,8 +4,10 @@
 
 namespace core {
 
-void print_project_name() {
+void
+print_project_name()
+{
     std::cout << project_name << "\n";
 }
 
-}
+} // namespace core
