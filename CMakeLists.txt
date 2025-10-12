@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.20)
 project(
 	[PROJECTNAMEREPLACEME]
 	VERSION 0.1
-	DESCRIPTION "A GameBoy emulator written in modern C++"
+	DESCRIPTION "Write a description here if you feel like it"
 	LANGUAGES CXX
 )
 
